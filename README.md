@@ -18,7 +18,7 @@ Bienvenido a mi perfil de GitHub. Aquí encontrarás mis proyectos y colaboracio
 ## 🌟 Proyectos Destacados
 
 - [Repuestos y Cabezal](https://github.com/ReinerMS/repuestos_y_cabezales): Sitio web en HTML para ventas de repuestos.
-- [Ganadería Colonoreal](https://github.com/ReinerMS/ganaderiacolonoreal): Portal web informativo.
+- [Ganadería Colonoreal](https://reinerms.github.io/ganaderiacolonoreal/): Portal web informativo.
 
 ## 📊 Estadísticas de GitHub
 
